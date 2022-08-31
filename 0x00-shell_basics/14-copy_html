@@ -1,2 +1,2 @@
 #!/bin/bash
-Cp -v 0x00-shell_basics/*.html ../
+Cp -rua */.html ../
