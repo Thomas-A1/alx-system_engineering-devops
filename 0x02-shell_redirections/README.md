@@ -1,1 +1,1 @@
-A script that prints Hello World to the standard output
+0x02.Shell, I/O Redirections and filters
